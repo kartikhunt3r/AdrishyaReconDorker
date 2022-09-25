@@ -3,6 +3,8 @@ AdrishyaReconDorker tool utilises 58 different techniques using various Google d
 
 ![Logo](https://github.com/kartikhunt3r/MacChanger/blob/main/logo.gif)
 
+![image](https://github.com/kartikhunt3r/AdrishyaReconDorker/blob/main/dorker.png)
+
 
 ## Platforms:
 
